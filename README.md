@@ -3,7 +3,7 @@
   With a foundation in data manipulation, data visualization, data analysis, and data modeling, I am eager to apply these skills in real-world scenarios and contribute 
   effectively to the professional environment.
   
-📘You can contact me at diemmy2003204@gmail.com or via LinkedIn as [Diem My Le](https://www.linkedin.com/in/diem-my-le/)
+📘You can contact me at diemmy2003204@gmail.com or via LinkedIn [Diem My Le](https://www.linkedin.com/in/diem-my-le/)
 
 
 <!--
