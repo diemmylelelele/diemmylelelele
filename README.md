@@ -1,5 +1,5 @@
 # About me
-👋Hi there! I am Diem My, a junior at Fulbright University Vietnam, actively seeking internships and research opportunities in Data Science and Artificial Intelligence. 
+👋Hi there! I am Diem My, a senior at Fulbright University Vietnam, actively seeking internships and research opportunities in Data Science and Artificial Intelligence. 
   With a foundation in data manipulation, data visualization, data analysis, and data modeling, I am eager to apply these skills in real-world scenarios and contribute 
   effectively to the professional environment.
   
